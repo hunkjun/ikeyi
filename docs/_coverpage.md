@@ -6,7 +6,7 @@
 - 博客blog
 - 众多主意
 
-[蜀ICP备2023011282号-1](https://beian.miit.gov.cn)
+<!-- [蜀ICP备2023011282号-1](https://beian.miit.gov.cn) -->
 
 [GitHub](https://github.com/hunkjun/ikeyi.git)
 [开始聊天](https://ai.ikeyi.top)

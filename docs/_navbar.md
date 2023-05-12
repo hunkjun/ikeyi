@@ -1,7 +1,4 @@
-* AI
-
-  * [快速开始](zh-cn/quickstart.md)
+* [AI智能聊天](https://ai.ikeyi.top)
 
 
-* Blog
-  * [配置项](zh-cn/configuration.md)
+* [博客blog](https://ikeyi.top)
