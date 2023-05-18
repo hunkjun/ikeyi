@@ -1,3 +1,7 @@
+### 本网站源码可有偿分享，也可以提供定向开发需求.
+
+如需请联系: ikeyitop@163.com
+
 ## 智能聊天
 
 - 体验地址: https://ai.ikeyi.top
@@ -36,6 +40,3 @@
 
 ![server2.jpg](https://pic.peo.pw/a/2023/05/18/6465fe1b7e5de.jpg)
 
-### 网站源码可有偿分享，也可以定向开发需求.
-
-如需请联系: ikeyitop@163.com
