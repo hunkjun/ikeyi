@@ -2,7 +2,7 @@
 
 - 人工智能
   - [README](人工智能/README.md)
-  - [Ikeyi.Top](人工智能/ikeyi.top.md)
+  - [Ai.Ikeyi.Top](人工智能/ai.ikeyi.top.md)
 
 - 生活记录
   - [README](生活记录/README.md)
