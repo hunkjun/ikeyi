@@ -2,6 +2,8 @@
 
 如需请联系: ikeyitop@163.com
 
+代码: ￥149.
+
 ## 智能聊天
 
 - 体验地址: https://ai.ikeyi.top
